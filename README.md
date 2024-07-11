@@ -1,6 +1,4 @@
-# Healthy-Snack-Recommendation_Palanichamy Naveen
-
-# Healthy Snack Recommendation System for UK Kids
+# Healthy Snack Recommendation System for UK Kids_Palanichamy Naveen
 
 ## Introduction
 In this project, we build a simple recommendation system to suggest healthy snacks for UK kids based on their age and dietary preferences. This helps parents find suitable snacks for their children that meet their dietary needs.
